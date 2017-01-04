@@ -1,0 +1,51 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+
+}
+
+
+nav {
+	background-color: green;
+}
+.col .btn {
+	
+}
+.col.l12 {
+	background-color: blue;
+}
+.nav-wrapper {
+	max-height: auto;
+}
+.brand-logo {
+	position: absolute;
+	top: 112px;
+}
+
+
+.l3 {
+	background-color: green;
+}
+.l9 {
+	background-color: purple;
+}
+.l2 {
+	background-color: blue;
+}
+.l8 {
+	background-color: red;
+}
+
+
+@media only screen and (max-width: 600px){
+	.brand-logo {
+	position: absolute;
+	top: 104px;
+}
+
+
+}
